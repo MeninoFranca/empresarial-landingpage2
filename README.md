@@ -1,6 +1,6 @@
 Este repositório contém o código-fonte do site empresarial fictício. O site é projetado para representar a identidade e os serviços da empresa de forma eficaz e profissional online. Ele inclui um design moderno e responsivo, funcionalidades essenciais como formulários de contato e integração de mídias sociais, e é otimizado para mecanismos de busca (SEO) para melhorar a visibilidade online.
 
-LINK: https://meninofranca.github.io/empresarial-landingpage-2/
+LINK: https://meninofranca.github.io/empresarial-landingpage2/
 
 Recursos:
 
